@@ -1,5 +1,7 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 /* ^^ import your fonts above this line ^^ */
@@ -51,6 +53,11 @@ main {
 }
 
 /* custom order styles */
+.tyreke{
+  background:linear-gradient(blue, red, tan);
+  font-family: 'Tangerine', cursive;
+  border:none;
+}
 
 .mr-demond {
   border-color: red;
@@ -59,3 +66,4 @@ main {
   border-radius: 10px;
   font-family: 'Pacifico', cursive;
 }
+
