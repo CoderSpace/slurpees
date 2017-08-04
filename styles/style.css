@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald|PT+Sans');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 @import url('https://fonts.googleapis.com/css?family=Tangerine');
@@ -47,6 +48,7 @@ main {
 
 /* order styles styles */
 
+
 .order {
   width: 190px;
   height: 190px;
@@ -73,6 +75,20 @@ main {
   font-family: 'Pacifico', cursive;
 }
 
+.joanmarie{
+  background-color:gold;
+  color:black;
+  padding:5%;
+  font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Droid Sans', sans-serif;
+margin:0;
+}
+
+.derek-fa{
+  color:pink;
+  
+}
 
 .zimmie {
   border-style: dashed;
