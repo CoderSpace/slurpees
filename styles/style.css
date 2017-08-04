@@ -1,8 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald|PT+Sans');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
 @import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Fondamento');
+@import url('https://fonts.googleapis.com/css?family=Julee');
+@import url('https://fonts.googleapis.com/css?family=A');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+
+
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -41,11 +50,12 @@ main {
 
 /* order styles styles */
 
+
 .order {
   width: 190px;
   height: 190px;
   padding: 5px;
-  border: solid 5px black;
+  border: solid 5px blue;
 }
 
 .order i {
@@ -53,6 +63,13 @@ main {
 }
 
 /* custom order styles */
+
+.tyreke{
+  background:linear-gradient(blue, red, tan);
+  font-family: 'Tangerine', cursive;
+  border:none;
+}
+
 
 .mr-demond {
   border-color: red;
@@ -66,6 +83,75 @@ main {
 }
 
 
+.brian {
+  border-color: red;
+  background:steelblue;
+  color: white;
+  border-radius: 10px;
+  font-family: '', cursive;
+}
+.derek{
+ background:none; 
+ color:#333;
+ font-family: 'Fondamento', cursive;
+ padding: 2%;
+ margin:0;
+}
+.derek-fa{
+  color:green;
+}
+.andrew-sucks {
+  border-color: black;
+  background: crimson;
+  color: FloralWhite;
+  border-radius: 20px;
+  font-family: 'Julee', cursive;
+}
+
+.mr-kallatt {
+  border-color:gold;
+  background:red;
+  color:gold;
+  border-radius:10px;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.eden{
+  background:	#32CD32;
+  color:white;
+  border-color:white;
+  font-family:'Arvo', serif; ;
+}
+  
+
+
+.juwan{
+  background-color:Gold;
+  border-color:DarkGrey;
+  color: black;
+  border-radius: 10px;
+  font-family: 'Bungee Shade', cursive;
+}
+
+.joanmarie{
+  background-color:gold;
+  color:black;
+  padding:5%;
+  font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Droid Sans', sans-serif;
+margin:0;
+}
+
+.zimmie {
+  border-style: dashed;
+ font-family: 'Zilla Slab Highlight', cursive; 
+background:blue;
+color:lightgray;
+border-radius: 20px;
+border-color: darkgray;
+}
+
 .jabari {
   border: #FF3100;
   background-color: #86DBBE;
@@ -77,6 +163,7 @@ main {
   height: 225px;
 }
 
+
 .ms-arelia {
   border-color: #369;
   background-color: #369;
@@ -85,5 +172,23 @@ main {
 
 .ms-arelia i {
   vertical-align: baseline;
+
+
+}
+
+
+
+
+
+
+.order gene{
+  
+   border-color: red;
+  background: red;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Pacifico', cursive;
+  
+  
 }
 
