@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
 /* ^^ import your fonts above this line ^^ */
 
 /* header styles */
@@ -58,4 +59,13 @@ main {
   color: white;
   border-radius: 10px;
   font-family: 'Pacifico', cursive;
+}
+
+.zimmie {
+  border-style: dashed;
+ font-family: 'Zilla Slab Highlight', cursive; 
+background:blue;
+color:lightgray;
+border-radius: 20px;
+border-color: darkgray;
 }
