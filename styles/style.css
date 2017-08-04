@@ -1,0 +1,61 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+/* ^^ import your fonts above this line ^^ */
+
+/* header styles */
+
+.lead {
+  font-size: 1.5em;
+  width: 75%;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hero {
+  display: block;
+  margin: auto;
+  width: 50%;
+  font-size: 2em;
+}
+
+.caption {
+  width: 50%;
+  display: block;
+  margin: auto;
+  font-style: italic;
+}
+
+/* main section styles */
+
+main {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* order styles styles */
+
+.order {
+  width: 190px;
+  height: 190px;
+  padding: 5px;
+  border: solid 5px black;
+}
+
+.order i {
+  vertical-align: middle;
+}
+
+/* custom order styles */
+
+.mr-demond {
+  border-color: red;
+  background: red;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Pacifico', cursive;
+}
