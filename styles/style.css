@@ -59,3 +59,13 @@ main {
   border-radius: 10px;
   font-family: 'Pacifico', cursive;
 }
+
+.ms-arelia {
+  border-color: #369;
+  background-color: #369;
+  color: pink;
+}
+
+.ms-arelia i {
+  vertical-align: baseline;
+}
