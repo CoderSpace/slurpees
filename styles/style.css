@@ -1,5 +1,5 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 /* ^^ import your fonts above this line ^^ */
@@ -58,4 +58,12 @@ main {
   color: white;
   border-radius: 10px;
   font-family: 'Pacifico', cursive;
+}
+
+.mr-kallatt {
+  border-color:gold;
+  background:red;
+  color:gold;
+  border-radius:10px;
+  font-family: 'Sedgwick Ave Display', cursive;
 }
