@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald|PT+Sans');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -50,6 +61,11 @@ main {
 }
 
 /* custom order styles */
+.tyreke{
+  background:linear-gradient(blue, red, tan);
+  font-family: 'Tangerine', cursive;
+  border:none;
+}
 
 .mr-demond {
   border-color: red;
@@ -73,3 +89,34 @@ margin:0;
   color:pink;
   
 }
+
+.zimmie {
+  border-style: dashed;
+ font-family: 'Zilla Slab Highlight', cursive; 
+background:blue;
+color:lightgray;
+border-radius: 20px;
+border-color: darkgray;
+}
+
+.jabari {
+  border: #FF3100;
+  background-color: #86DBBE;
+  border-radius: 2%;
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: #FF3100;
+  box-sizing: border-box;
+  border-style: double;
+  height: 225px;
+}
+
+.ms-arelia {
+  border-color: #369;
+  background-color: #369;
+  color: pink;
+}
+
+.ms-arelia i {
+  vertical-align: baseline;
+}
+
