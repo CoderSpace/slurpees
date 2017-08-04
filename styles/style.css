@@ -6,6 +6,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+@import url('https://fonts.googleapis.com/css?family=Julee');
+
+@import url('https://fonts.googleapis.com/css?family=A
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
 
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 
@@ -13,8 +17,6 @@
 @import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
-
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -87,6 +89,14 @@ main {
   border-radius: 10px;
   font-family: '', cursive;
 }
+.andrew-sucks {
+  border-color: black;
+  background: crimson;
+  color: FloralWhite;
+  border-radius: 20px;
+  font-family: 'Julee', cursive;
+}
+
 .mr-kallatt {
   border-color:gold;
   background:red;
@@ -94,6 +104,15 @@ main {
   border-radius:10px;
   font-family: 'Sedgwick Ave Display', cursive;
 }
+
+.eden{
+  background:	#32CD32;
+  color:white;
+  border-color:white;
+  font-family:'Arvo', serif; ;
+}
+  
+
 
 .juwan{
   background-color:Gold;
@@ -148,4 +167,5 @@ border-color: darkgray;
   vertical-align: baseline;
 
 }
+
 
