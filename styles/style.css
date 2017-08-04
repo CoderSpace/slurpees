@@ -6,6 +6,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+@import url('https://fonts.googleapis.com/css?family=Julee');
 
 @import url('https://fonts.googleapis.com/css?family=A
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
@@ -81,6 +82,12 @@ main {
   font-family: 'Pacifico', cursive;
 }
 
+.andrew-sucks {
+  border-color: black;
+  background: crimson;
+  color: FloralWhite;
+  border-radius: 20px;
+  font-family: 'Julee', cursive;
 .mr-kallatt {
   border-color:gold;
   background:red;
