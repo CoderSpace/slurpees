@@ -84,6 +84,13 @@ main {
   font-family: 'Pacifico', cursive;
 }
 
+.brian {
+  border-color: red;
+  background:steelblue;
+  color: white;
+  border-radius: 10px;
+  font-family: '', cursive;
+}
 .derek{
  background:none; 
  color:#333;
@@ -100,6 +107,8 @@ main {
   color: FloralWhite;
   border-radius: 20px;
   font-family: 'Julee', cursive;
+}
+
 .mr-kallatt {
   border-color:gold;
   background:red;
