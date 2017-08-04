@@ -1,8 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald|PT+Sans');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+
+
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
+
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -41,6 +53,7 @@ main {
 
 /* order styles styles */
 
+
 .order {
   width: 190px;
   height: 190px;
@@ -53,6 +66,11 @@ main {
 }
 
 /* custom order styles */
+.tyreke{
+  background:linear-gradient(blue, red, tan);
+  font-family: 'Tangerine', cursive;
+  border:none;
+}
 
 .mr-demond {
   border-color: red;
@@ -68,6 +86,45 @@ main {
   color: white;
   border-radius: 10px;
   font-family: '', cursive;
+}
+.mr-kallatt {
+  border-color:gold;
+  background:red;
+  color:gold;
+  border-radius:10px;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.juwan{
+  background-color:Gold;
+  border-color:DarkGrey;
+  color: black;
+  border-radius: 10px;
+  font-family: 'Bungee Shade', cursive;
+}
+
+.joanmarie{
+  background-color:gold;
+  color:black;
+  padding:5%;
+  font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Droid Sans', sans-serif;
+margin:0;
+}
+
+.derek-fa{
+  color:pink;
+  
+}
+
+.zimmie {
+  border-style: dashed;
+ font-family: 'Zilla Slab Highlight', cursive; 
+background:blue;
+color:lightgray;
+border-radius: 20px;
+border-color: darkgray;
 }
 
 .jabari {
@@ -89,5 +146,6 @@ main {
 
 .ms-arelia i {
   vertical-align: baseline;
+
 }
 
