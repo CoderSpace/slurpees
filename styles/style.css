@@ -5,6 +5,8 @@
 @import url('https://fonts.googleapis.com/css?family=Tangerine');
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Fondamento');
+
 
 @import url('https://fonts.googleapis.com/css?family=Julee');
 
@@ -82,6 +84,16 @@ main {
   font-family: 'Pacifico', cursive;
 }
 
+.derek{
+ background:none; 
+ color:#333;
+ font-family: 'Fondamento', cursive;
+ padding: 2%;
+ margin:0;
+}
+.derek-fa{
+  color:green;
+}
 .andrew-sucks {
   border-color: black;
   background: crimson;
@@ -121,11 +133,6 @@ main {
 font-family: 'PT Sans', sans-serif;
 font-family: 'Droid Sans', sans-serif;
 margin:0;
-}
-
-.derek-fa{
-  color:pink;
-  
 }
 
 .zimmie {
