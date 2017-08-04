@@ -7,14 +7,15 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 
+@import url('https://fonts.googleapis.com/css?family=A
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 
 
 @import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
-
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -88,6 +89,15 @@ main {
   font-family: 'Sedgwick Ave Display', cursive;
 }
 
+.eden{
+  background:	#32CD32;
+  color:white;
+  border-color:white;
+  font-family:'Arvo', serif; ;
+}
+  
+
+
 .juwan{
   background-color:Gold;
   border-color:DarkGrey;
@@ -141,4 +151,5 @@ border-color: darkgray;
   vertical-align: baseline;
 
 }
+
 
