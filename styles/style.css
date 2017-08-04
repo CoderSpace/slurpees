@@ -4,7 +4,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -70,6 +74,15 @@ main {
 }
 
 
+.zimmie {
+  border-style: dashed;
+ font-family: 'Zilla Slab Highlight', cursive; 
+background:blue;
+color:lightgray;
+border-radius: 20px;
+border-color: darkgray;
+}
+
 .jabari {
   border: #FF3100;
   background-color: #86DBBE;
@@ -90,3 +103,4 @@ main {
 .ms-arelia i {
   vertical-align: baseline;
 }
+
