@@ -1,8 +1,8 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
-
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
+@import url('https://fonts.googleapis.com/css?family=VT323');
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -56,10 +56,13 @@ main {
 
 .mr-demond {
   border-color: red;
-  background: red;
+  background: linear-gradient(red, yellow);
   color: white;
   border-radius: 10px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'VT323', monospace;
+  border: none;
+  width: 195px;
+  height: 195px;
 }
 
 
