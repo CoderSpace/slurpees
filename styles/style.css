@@ -1,6 +1,4 @@
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald|PT+Sans');
 
 /* ^^ import your fonts above this line ^^ */
 
@@ -39,6 +37,7 @@ main {
 
 /* order styles styles */
 
+
 .order {
   width: 190px;
   height: 190px;
@@ -58,4 +57,19 @@ main {
   color: white;
   border-radius: 10px;
   font-family: 'Pacifico', cursive;
+}
+
+.joanmarie{
+  background-color:gold;
+  color:black;
+  padding:5%;
+  font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Droid Sans', sans-serif;
+margin:0;
+}
+
+.derek-fa{
+  color:pink;
+  
 }
