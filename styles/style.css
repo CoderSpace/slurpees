@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
-@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
 /* ^^ import your fonts above this line ^^ */
 
 /* header styles */
@@ -62,18 +60,6 @@ main {
   font-family: 'Pacifico', cursive;
 }
 
-
-.jabari {
-  border: #FF3100;
-  background-color: #86DBBE;
-  border-radius: 2%;
-  font-family: 'Sedgwick Ave Display', cursive;
-  color: #FF3100;
-  box-sizing: border-box;
-  border-style: double;
-  height: 225px;
-}
-
 .ms-arelia {
   border-color: #369;
   background-color: #369;
@@ -83,4 +69,3 @@ main {
 .ms-arelia i {
   vertical-align: baseline;
 }
-
